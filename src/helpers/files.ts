@@ -10,7 +10,7 @@ const readFile = (file: File) => {
         return reject();
       }
 
-      resolve(event.target?.result);
+      resolve(event.target.result);
     };
 
     fileReader.onerror = reject;
