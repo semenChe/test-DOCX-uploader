@@ -11,7 +11,7 @@
 ## установка для разработчиков
 1. Клонируйте репозиторий с помощью следующей команды:
 ```sh 
-git clone https://github.com/semenChe/test-Kommo-amoCRM.git
+git clone https://github.com/semenChe/test-DOCX-uploader.git
 ```
 
 2. Установите программу, используя команду:
