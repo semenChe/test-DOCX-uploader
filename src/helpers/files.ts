@@ -9,10 +9,8 @@ const readFile = (file: File) => {
       if (!event.target?.result) {
         return reject();
       }
-
       resolve(event.target.result);
     };
-
     fileReader.onerror = reject;
     fileReader.readAsBinaryString(file);
   });
