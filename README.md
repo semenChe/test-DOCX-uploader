@@ -22,5 +22,5 @@ npm install
 Запустить программу локально:
 
 ```sh
-mpm run start
+npm run start
 ```
